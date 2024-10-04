@@ -11,7 +11,7 @@ I'm a passionate web developer focused on creating clean, responsive, and intera
 - **Employee Scheduling App**: React Native app for managing employee schedules in small businesses.
 - **Digital Agency**: Developed using React. This project was created to attract small businesses in need of website or digital solutions. 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aA-Berezvay&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-Berezvay&show_icons=true&theme=radical)
 <!--
 **A-Berezvay/A-Berezvay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
