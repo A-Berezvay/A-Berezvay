@@ -8,7 +8,7 @@ I'm a passionate web developer focused on creating clean, responsive, and intera
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/albert-berezvay/) | [Portfolio](https://albertberezvay.com/)
 
 ## 🚀 Projects
-- **Employee Scheduling App**: React Native app for managing employee schedules in small businesses.
+- **Mobile POS System**: React app for managing orders and payments from the same mobile device.
 - **Digital Agency**: Developed using React. This project was created to attract small businesses in need of website or digital solutions. 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-Berezvay&show_icons=true&theme=radical)
